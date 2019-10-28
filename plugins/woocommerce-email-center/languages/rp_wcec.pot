@@ -1,0 +1,1572 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WooCommerce Email Center\n"
+"POT-Creation-Date: 2017-10-16 17:41+0300\n"
+"PO-Revision-Date: 2015-11-28 21:36+0700\n"
+"Last-Translator: \n"
+"Language-Team: RightPress <support@rightpress.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: woocommerce-email-center.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/classes/abstract/rp-wcec-post-object.class.php:389
+#: woocommerce-email-center.php:239
+msgid "Settings"
+msgstr ""
+
+#: includes/classes/abstract/rp-wcec-post-object.class.php:399
+msgid "Actions"
+msgstr ""
+
+#: includes/classes/abstract/rp-wcec-post-object.class.php:505
+msgid "Save"
+msgstr ""
+
+#: includes/classes/abstract/rp-wcec-post-object.class.php:517
+#: includes/classes/abstract/rp-wcec-post-object.class.php:1078
+msgid "Enable"
+msgstr ""
+
+#: includes/classes/abstract/rp-wcec-post-object.class.php:522
+#: includes/classes/abstract/rp-wcec-post-object.class.php:1087
+msgid "Disable"
+msgstr ""
+
+#: includes/classes/abstract/rp-wcec-post-object.class.php:705
+msgid "enabled"
+msgstr ""
+
+#: includes/classes/abstract/rp-wcec-post-object.class.php:708
+msgid "disabled"
+msgstr ""
+
+#: includes/classes/abstract/rp-wcec-post-object.class.php:1057
+msgid "Edit"
+msgstr ""
+
+#: includes/classes/abstract/rp-wcec-post-object.class.php:1066
+msgid "Duplicate"
+msgstr ""
+
+#: includes/classes/abstract/rp-wcec-post-object.class.php:1093
+msgid "Trash"
+msgstr ""
+
+#: includes/classes/abstract/rp-wcec-post-object.class.php:1098
+#: includes/views/block/actions.php:26 includes/views/email/actions.php:26
+#: includes/views/trigger/actions.php:26
+msgid "Delete Permanently"
+msgstr ""
+
+#: includes/classes/abstract/rp-wcec-post-object.class.php:1103
+msgid "Restore"
+msgstr ""
+
+#: includes/classes/abstract/rp-wcec-post-object.class.php:1642
+#: includes/classes/rp-wcec-email.class.php:918
+msgid "Copy of"
+msgstr ""
+
+#: includes/classes/abstract/rp-wcec-post-object.class.php:1700
+#: includes/classes/rp-wcec-trigger.class.php:1610
+#, php-format
+msgid "%s updated."
+msgstr ""
+
+#: includes/classes/integration/rp-wcec-wc-subscriptions.class.php:64
+msgid "Order is renewal"
+msgstr ""
+
+#: includes/classes/integration/rp-wcec-wc-subscriptions.class.php:78
+msgid "WooCommerce Subscriptions"
+msgstr ""
+
+#: includes/classes/rp-wcec-block.class.php:89
+#: includes/classes/rp-wcec-block.class.php:103
+msgid "Email Blocks"
+msgstr ""
+
+#: includes/classes/rp-wcec-block.class.php:90
+msgid "Email Block"
+msgstr ""
+
+#: includes/classes/rp-wcec-block.class.php:91
+msgid "Add Block"
+msgstr ""
+
+#: includes/classes/rp-wcec-block.class.php:92
+msgid "Add New Block"
+msgstr ""
+
+#: includes/classes/rp-wcec-block.class.php:93
+msgid "Edit Block"
+msgstr ""
+
+#: includes/classes/rp-wcec-block.class.php:94
+msgid "New Block"
+msgstr ""
+
+#: includes/classes/rp-wcec-block.class.php:95
+#: includes/classes/rp-wcec-block.class.php:101
+#: includes/lazy/rp-wcec-tinymce-locales.inc.php:14
+msgid "Blocks"
+msgstr ""
+
+#: includes/classes/rp-wcec-block.class.php:96
+msgid "View Block"
+msgstr ""
+
+#: includes/classes/rp-wcec-block.class.php:97
+msgid "Search Blocks"
+msgstr ""
+
+#: includes/classes/rp-wcec-block.class.php:98
+msgid "No Blocks Found"
+msgstr ""
+
+#: includes/classes/rp-wcec-block.class.php:99
+msgid "No Blocks Found In Trash"
+msgstr ""
+
+#: includes/classes/rp-wcec-block.class.php:117
+#: includes/classes/rp-wcec-block.class.php:118
+#: includes/classes/rp-wcec-block.class.php:193
+#: includes/classes/rp-wcec-email.class.php:280
+#: includes/classes/rp-wcec-email.class.php:281
+#: includes/classes/rp-wcec-email.class.php:357
+#: includes/classes/rp-wcec-log-entry.class.php:256
+#: includes/classes/rp-wcec-log-entry.class.php:257
+#: includes/classes/rp-wcec-log-entry.class.php:290
+#: includes/classes/rp-wcec-trigger.class.php:197
+#: includes/classes/rp-wcec-trigger.class.php:198
+#: includes/classes/rp-wcec-trigger.class.php:315
+msgid "Status"
+msgstr ""
+
+#: includes/classes/rp-wcec-block.class.php:119
+#: includes/classes/rp-wcec-email.class.php:282
+#: includes/classes/rp-wcec-log-entry.class.php:258
+#: includes/classes/rp-wcec-trigger.class.php:199
+msgid "All statuses"
+msgstr ""
+
+#: includes/classes/rp-wcec-block.class.php:132
+msgid "Block"
+msgstr ""
+
+#: includes/classes/rp-wcec-block.class.php:154
+msgid "Block Content"
+msgstr ""
+
+#: includes/classes/rp-wcec-block.class.php:192
+#: includes/classes/rp-wcec-trigger.class.php:312
+#: includes/views/trigger/settings.php:28
+msgid "Title"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:55
+msgid "Cart"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:60
+msgid "Cart subtotal"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:73
+#: includes/classes/rp-wcec-conditions.class.php:279
+msgid "Coupons applied"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:88
+msgid "Products In Cart"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:93
+#: includes/classes/rp-wcec-conditions.class.php:312
+msgid "Products"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:106
+#: includes/classes/rp-wcec-conditions.class.php:325
+msgid "Product categories"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:119
+#: includes/classes/rp-wcec-conditions.class.php:182
+#: includes/classes/rp-wcec-conditions.class.php:338
+msgid "Product attributes"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:132
+#: includes/classes/rp-wcec-conditions.class.php:197
+#: includes/classes/rp-wcec-conditions.class.php:351
+msgid "Product tags"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:147
+msgid "Event Product"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:152
+#: templates/emails/email-order-details.php:30
+#: templates/emails/rp-wcec-order-items-table.php:21
+msgid "Product"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:167
+msgid "Product category"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:214
+#: includes/classes/rp-wcec-log-entry.class.php:294
+msgid "Order"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:219
+msgid "Order total"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:266
+msgid "Order status"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:292
+msgid "Payment method"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:307
+msgid "Products In Order"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:366
+msgid "Billing Address"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:371
+msgid "Billing country"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:384
+msgid "Billing state"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:397
+msgid "Billing city"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:410
+msgid "Billing postcode"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:425
+msgid "Shipping Address"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:430
+msgid "Shipping country"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:443
+msgid "Shipping state"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:456
+msgid "Shipping city"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:469
+msgid "Shipping postcode"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:484
+#: includes/classes/rp-wcec-email.class.php:387
+#: includes/classes/rp-wcec-log-entry.class.php:291
+#: includes/classes/rp-wcec-trigger.class.php:679
+#: includes/views/email/recipients.php:37
+msgid "Customer"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:489
+msgid "Role"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:504
+msgid "Capability"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:519
+msgid "Specific customer"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:534
+msgid "Customer meta"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:551
+msgid "Customer Value"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:556
+msgid "Amount spent"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:571
+msgid "Order count"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:588
+msgid "Customer Purchase History"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:593
+msgid "Products within"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:608
+msgid "Product categories within"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:623
+msgid "Product attributes within"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:638
+msgid "Product tags within"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:797
+msgid "Shipping zone"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:816
+msgid "day"
+msgid_plural "days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/rp-wcec-conditions.class.php:822
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/rp-wcec-conditions.class.php:828
+msgid "month"
+msgid_plural "months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/rp-wcec-conditions.class.php:834
+msgid "year"
+msgid_plural "years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/rp-wcec-conditions.class.php:1017
+msgid "yes"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:1018
+msgid "no"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:1024
+msgid "in list"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:1025
+msgid "not in list"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:1031
+msgid "at least"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:1032
+#: includes/classes/rp-wcec-conditions.class.php:1079
+msgid "less than"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:1038
+msgid "at least one of selected"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:1039
+msgid "all of selected"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:1040
+msgid "none of selected"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:1046
+msgid "within past"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:1047
+msgid "earlier than"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:1053
+msgid "matches"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:1054
+msgid "does not match"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:1060
+#: includes/classes/rp-wcec-conditions.class.php:1077
+msgid "equals"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:1061
+#: includes/classes/rp-wcec-conditions.class.php:1078
+msgid "does not equal"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:1062
+#: includes/classes/rp-wcec-conditions.class.php:1073
+msgid "contains"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:1063
+#: includes/classes/rp-wcec-conditions.class.php:1074
+msgid "does not contain"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:1064
+#: includes/classes/rp-wcec-conditions.class.php:1075
+msgid "begins with"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:1065
+#: includes/classes/rp-wcec-conditions.class.php:1076
+msgid "ends with"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:1071
+msgid "is empty"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:1072
+msgid "is not empty"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:1080
+msgid "less or equal to"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:1081
+msgid "more than"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:1082
+msgid "more or equal to"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:1083
+msgid "is checked"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:1084
+msgid "is not checked"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:1107
+msgid "all time"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:1137
+msgid "No search query sent"
+msgstr ""
+
+#: includes/classes/rp-wcec-conditions.class.php:1151
+msgid "Nothing found"
+msgstr ""
+
+#: includes/classes/rp-wcec-email.class.php:252
+#: includes/classes/rp-wcec-email.class.php:264
+#: includes/classes/rp-wcec-email.class.php:266
+msgid "Custom Emails"
+msgstr ""
+
+#: includes/classes/rp-wcec-email.class.php:253
+msgid "Custom Email"
+msgstr ""
+
+#: includes/classes/rp-wcec-email.class.php:254
+msgid "Add Email"
+msgstr ""
+
+#: includes/classes/rp-wcec-email.class.php:255
+msgid "Add New Email"
+msgstr ""
+
+#: includes/classes/rp-wcec-email.class.php:256
+msgid "Edit Email"
+msgstr ""
+
+#: includes/classes/rp-wcec-email.class.php:257
+msgid "New Email"
+msgstr ""
+
+#: includes/classes/rp-wcec-email.class.php:258
+msgid "Emails"
+msgstr ""
+
+#: includes/classes/rp-wcec-email.class.php:259
+msgid "View Email"
+msgstr ""
+
+#: includes/classes/rp-wcec-email.class.php:260
+msgid "Search Emails"
+msgstr ""
+
+#: includes/classes/rp-wcec-email.class.php:261
+msgid "No Emails Found"
+msgstr ""
+
+#: includes/classes/rp-wcec-email.class.php:262
+msgid "No Emails Found In Trash"
+msgstr ""
+
+#: includes/classes/rp-wcec-email.class.php:295
+#: includes/classes/rp-wcec-log-entry.class.php:292
+#: includes/classes/rp-wcec-trigger.class.php:314
+msgid "Email"
+msgstr ""
+
+#: includes/classes/rp-wcec-email.class.php:317
+msgid "Email Content"
+msgstr ""
+
+#: includes/classes/rp-wcec-email.class.php:355
+#: includes/views/email/settings.php:28
+msgid "Subject"
+msgstr ""
+
+#: includes/classes/rp-wcec-email.class.php:356
+msgid "Recipient"
+msgstr ""
+
+#: includes/classes/rp-wcec-email.class.php:384
+#: includes/views/email/recipients.php:30
+msgid "Shop Manager"
+msgstr ""
+
+#: includes/classes/rp-wcec-email.class.php:390
+#: includes/views/email/recipients.php:44
+msgid "Email Addresses"
+msgstr ""
+
+#: includes/classes/rp-wcec-email.class.php:833
+msgid "Problems applying inline styles."
+msgstr ""
+
+#: includes/classes/rp-wcec-email.class.php:1114
+msgid "Recipients"
+msgstr ""
+
+#: includes/classes/rp-wcec-email.class.php:1124
+msgid "Attachments"
+msgstr ""
+
+#: includes/classes/rp-wcec-email.class.php:1134
+msgid "Format & Style"
+msgstr ""
+
+#: includes/classes/rp-wcec-email.class.php:1144
+msgid "Private Note"
+msgstr ""
+
+#: includes/classes/rp-wcec-email.class.php:1244
+msgid "WooCommerce Style"
+msgstr ""
+
+#: includes/classes/rp-wcec-email.class.php:1245
+msgid "No Style / Plain"
+msgstr ""
+
+#: includes/classes/rp-wcec-email.class.php:1258
+msgid "HTML"
+msgstr ""
+
+#: includes/classes/rp-wcec-email.class.php:1259
+msgid "Plain Text"
+msgstr ""
+
+#: includes/classes/rp-wcec-email.class.php:1260
+msgid "Multipart"
+msgstr ""
+
+#: includes/classes/rp-wcec-log-entry.class.php:215
+msgid "Log Entries"
+msgstr ""
+
+#: includes/classes/rp-wcec-log-entry.class.php:216
+#: includes/classes/rp-wcec-log-entry.class.php:276
+msgid "Log Entry"
+msgstr ""
+
+#: includes/classes/rp-wcec-log-entry.class.php:217
+msgid "Add Entry"
+msgstr ""
+
+#: includes/classes/rp-wcec-log-entry.class.php:218
+msgid "Add New Entry"
+msgstr ""
+
+#: includes/classes/rp-wcec-log-entry.class.php:219
+msgid "Edit Entry"
+msgstr ""
+
+#: includes/classes/rp-wcec-log-entry.class.php:220
+msgid "New Entry"
+msgstr ""
+
+#: includes/classes/rp-wcec-log-entry.class.php:221
+#: includes/classes/rp-wcec-log-entry.class.php:227
+msgid "Log"
+msgstr ""
+
+#: includes/classes/rp-wcec-log-entry.class.php:222
+msgid "View Entry"
+msgstr ""
+
+#: includes/classes/rp-wcec-log-entry.class.php:223
+msgid "Search Entries"
+msgstr ""
+
+#: includes/classes/rp-wcec-log-entry.class.php:224
+msgid "No Log Entries Found"
+msgstr ""
+
+#: includes/classes/rp-wcec-log-entry.class.php:225
+msgid "No Log Entries Found In Trash"
+msgstr ""
+
+#: includes/classes/rp-wcec-log-entry.class.php:229
+msgid "Email Log"
+msgstr ""
+
+#: includes/classes/rp-wcec-log-entry.class.php:261
+#: includes/classes/rp-wcec-log-entry.class.php:262
+#: includes/classes/rp-wcec-log-entry.class.php:289
+msgid "Action"
+msgstr ""
+
+#: includes/classes/rp-wcec-log-entry.class.php:263
+msgid "All actions"
+msgstr ""
+
+#: includes/classes/rp-wcec-log-entry.class.php:288
+msgid "Timestamp"
+msgstr ""
+
+#: includes/classes/rp-wcec-log-entry.class.php:293
+#: includes/classes/rp-wcec-trigger.class.php:212
+msgid "Trigger"
+msgstr ""
+
+#: includes/classes/rp-wcec-log-entry.class.php:295
+msgid "Note"
+msgstr ""
+
+#: includes/classes/rp-wcec-log-entry.class.php:318
+msgid "Show related entries"
+msgstr ""
+
+#: includes/classes/rp-wcec-log-entry.class.php:342
+#: includes/classes/rp-wcec-log-entry.class.php:381
+#: includes/classes/rp-wcec-log-entry.class.php:390
+msgid "none"
+msgstr ""
+
+#: includes/classes/rp-wcec-log-entry.class.php:352
+#: includes/classes/rp-wcec-log-entry.class.php:363
+#: includes/classes/rp-wcec-log-entry.class.php:377
+#: woocommerce-email-center.php:860
+msgid "deleted"
+msgstr ""
+
+#: includes/classes/rp-wcec-log-entry.class.php:495
+msgid "processing"
+msgstr ""
+
+#: includes/classes/rp-wcec-log-entry.class.php:498
+msgid "aborted"
+msgstr ""
+
+#: includes/classes/rp-wcec-log-entry.class.php:501
+msgid "sending"
+msgstr ""
+
+#: includes/classes/rp-wcec-log-entry.class.php:504
+msgid "success"
+msgstr ""
+
+#: includes/classes/rp-wcec-log-entry.class.php:507
+msgid "warning"
+msgstr ""
+
+#: includes/classes/rp-wcec-log-entry.class.php:510
+msgid "error"
+msgstr ""
+
+#: includes/classes/rp-wcec-log-entry.class.php:525
+msgid "Scheduling Email"
+msgstr ""
+
+#: includes/classes/rp-wcec-log-entry.class.php:528
+msgid "Sending Email"
+msgstr ""
+
+#: includes/classes/rp-wcec-log-entry.class.php:531
+msgid "Sending Scheduled"
+msgstr ""
+
+#: includes/classes/rp-wcec-log-entry.class.php:534
+msgid "Unscheduling Email"
+msgstr ""
+
+#: includes/classes/rp-wcec-log-entry.class.php:666
+msgid "Clear Log"
+msgstr ""
+
+#: includes/classes/rp-wcec-mailer.class.php:97
+msgid "Unable to get recipient email address."
+msgstr ""
+
+#: includes/classes/rp-wcec-mailer.class.php:123
+msgid "Email suppressed."
+msgstr ""
+
+#: includes/classes/rp-wcec-mailer.class.php:123
+msgid "The same email was sent to the same recipient in the past few minutes."
+msgstr ""
+
+#: includes/classes/rp-wcec-mailer.class.php:148
+msgid "Unexpected Error:"
+msgstr ""
+
+#: includes/classes/rp-wcec-mailer.class.php:274
+msgid "Trigger is disabled."
+msgstr ""
+
+#: includes/classes/rp-wcec-mailer.class.php:294
+msgid "Email no longer exists."
+msgstr ""
+
+#: includes/classes/rp-wcec-mailer.class.php:309
+#: includes/classes/rp-wcec-scheduler.class.php:369
+msgid "Unable to load trigger object."
+msgstr ""
+
+#: includes/classes/rp-wcec-mailer.class.php:336
+msgid "Email is disabled."
+msgstr ""
+
+#: includes/classes/rp-wcec-mailer.class.php:344
+msgid "No recipients selected for this email."
+msgstr ""
+
+#: includes/classes/rp-wcec-mailer.class.php:371
+msgid "Not sent to shop manager."
+msgstr ""
+
+#: includes/classes/rp-wcec-mailer.class.php:375
+msgid "Sent to shop manager."
+msgstr ""
+
+#: includes/classes/rp-wcec-mailer.class.php:375
+msgid "Failed sending to shop manager."
+msgstr ""
+
+#: includes/classes/rp-wcec-mailer.class.php:405
+msgid "Not sent to customer."
+msgstr ""
+
+#: includes/classes/rp-wcec-mailer.class.php:414
+msgid "Sent to customer."
+msgstr ""
+
+#: includes/classes/rp-wcec-mailer.class.php:414
+msgid "Failed sending to customer."
+msgstr ""
+
+#: includes/classes/rp-wcec-mailer.class.php:470
+#, php-format
+msgid "Sent to recipient %s."
+msgid_plural "Sent to recipients %s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/rp-wcec-mailer.class.php:477
+#, php-format
+msgid "Failed sending to recipient %s."
+msgid_plural "Failed sending to recipients %s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/rp-wcec-mailer.class.php:484
+msgid "Failed sending to other recipients - no valid email addresses found."
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:113
+#: includes/classes/rp-wcec-scheduler.class.php:119
+#: includes/classes/rp-wcec-scheduler.class.php:125
+#: includes/classes/rp-wcec-scheduler.class.php:127
+msgid "Scheduler Entries"
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:114
+#: includes/classes/rp-wcec-scheduler.class.php:161
+msgid "Scheduler Entry"
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:115
+msgid "Add Scheduler Entry"
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:116
+msgid "Add New Scheduler Entry"
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:117
+msgid "Edit Scheduler Entry"
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:118
+msgid "New Scheduler Entry"
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:120
+msgid "View Scheduler Entry"
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:121
+msgid "Search Scheduler Entries"
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:122
+msgid "No Scheduler Entries Found"
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:123
+msgid "No Scheduler Entries Found In Trash"
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:226
+msgid "Once every five minutes"
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:350
+msgid "Trigger no longer exists."
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:385
+msgid "Trigger does not match conditions."
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:404
+#: includes/classes/rp-wcec-trigger.class.php:1337
+msgid "Aborted by developer via filter hook."
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:425
+msgid "Attempt limit reached."
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:425
+msgid "Email will not be sent."
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:440
+msgid "Sending will be reattempted."
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:496
+msgid "Execution stopped prematurely (e.g. PHP fatal error)."
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:537
+msgid "Unable to get timestamp from schedule."
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:559
+msgid "Unable to create scheduled email object."
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:592
+#, php-format
+msgid "Scheduled for %s."
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:613
+msgid "Email is supposed to be sent immediately, something went wrong."
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:729
+msgid "Email unscheduled manually by admin."
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:732
+msgid "Corresponding trigger deleted."
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:732
+msgid "Email unscheduled."
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:779
+msgid "Send immediately"
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:784
+msgid "Specific date"
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:789
+msgid "Next"
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:795
+msgid "Minutes"
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:801
+msgid "Hours"
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:807
+msgid "Days"
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:813
+msgid "Weeks"
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:819
+msgid "Months"
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:825
+msgid "Years"
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:861
+msgid "Sunday"
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:862
+msgid "Monday"
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:863
+msgid "Tuesday"
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:864
+msgid "Wednesday"
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:865
+msgid "Thursday"
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:866
+msgid "Friday"
+msgstr ""
+
+#: includes/classes/rp-wcec-scheduler.class.php:867
+msgid "Saturday"
+msgstr ""
+
+#: includes/classes/rp-wcec-styling.class.php:214
+#: includes/classes/rp-wcec-styling.class.php:215
+msgid "Styling"
+msgstr ""
+
+#: includes/classes/rp-wcec-trigger.class.php:169
+#: includes/classes/rp-wcec-trigger.class.php:183
+msgid "Email Triggers"
+msgstr ""
+
+#: includes/classes/rp-wcec-trigger.class.php:170
+msgid "Email Trigger"
+msgstr ""
+
+#: includes/classes/rp-wcec-trigger.class.php:171
+msgid "Add Trigger"
+msgstr ""
+
+#: includes/classes/rp-wcec-trigger.class.php:172
+msgid "Add New Trigger"
+msgstr ""
+
+#: includes/classes/rp-wcec-trigger.class.php:173
+msgid "Edit Trigger"
+msgstr ""
+
+#: includes/classes/rp-wcec-trigger.class.php:174
+msgid "New Trigger"
+msgstr ""
+
+#: includes/classes/rp-wcec-trigger.class.php:175
+#: includes/classes/rp-wcec-trigger.class.php:181
+msgid "Triggers"
+msgstr ""
+
+#: includes/classes/rp-wcec-trigger.class.php:176
+msgid "View Trigger"
+msgstr ""
+
+#: includes/classes/rp-wcec-trigger.class.php:177
+msgid "Search Triggers"
+msgstr ""
+
+#: includes/classes/rp-wcec-trigger.class.php:178
+msgid "No Triggers Found"
+msgstr ""
+
+#: includes/classes/rp-wcec-trigger.class.php:179
+msgid "No Triggers Found In Trash"
+msgstr ""
+
+#: includes/classes/rp-wcec-trigger.class.php:313
+#: includes/views/trigger/settings.php:37
+msgid "Event"
+msgstr ""
+
+#: includes/classes/rp-wcec-trigger.class.php:346
+msgid "Not available"
+msgstr ""
+
+#: includes/classes/rp-wcec-trigger.class.php:485
+msgid ""
+"Are you sure you want to clear all scheduled emails that are based on this "
+"trigger?"
+msgstr ""
+
+#: includes/classes/rp-wcec-trigger.class.php:486
+msgid ""
+"<strong>Warning:</strong> This condition is no longer available. Previously "
+"it was available due to integration with other plugin which is no longer "
+"active or due to custom code on your site which is no longer present. As a "
+"precaution, this placeholder prevents emails from being sent. Saving "
+"settings on this page will automatically remove this placeholder and it will "
+"no longer prevent emails from being sent. Please review other settings of "
+"this trigger to make sure emails are not sent to wrong people at a wrong "
+"time because of missing condition."
+msgstr ""
+
+#: includes/classes/rp-wcec-trigger.class.php:614
+msgid "WooCommerce Cart"
+msgstr ""
+
+#: includes/classes/rp-wcec-trigger.class.php:619
+msgid "Add to cart"
+msgstr ""
+
+#: includes/classes/rp-wcec-trigger.class.php:631
+msgid "WooCommerce Order"
+msgstr ""
+
+#: includes/classes/rp-wcec-trigger.class.php:636
+msgid "New order"
+msgstr ""
+
+#: includes/classes/rp-wcec-trigger.class.php:644
+msgid "Payment complete"
+msgstr ""
+
+#: includes/classes/rp-wcec-trigger.class.php:652
+msgid "Status change"
+msgstr ""
+
+#: includes/classes/rp-wcec-trigger.class.php:661
+msgid "Customer note"
+msgstr ""
+
+#: includes/classes/rp-wcec-trigger.class.php:669
+msgid "Refund Issued"
+msgstr ""
+
+#: includes/classes/rp-wcec-trigger.class.php:684
+msgid "New account"
+msgstr ""
+
+#: includes/classes/rp-wcec-trigger.class.php:692
+msgid "User login"
+msgstr ""
+
+#: includes/classes/rp-wcec-trigger.class.php:701
+msgid "Password reset request"
+msgstr ""
+
+#: includes/classes/rp-wcec-trigger.class.php:710
+msgid "Password reset"
+msgstr ""
+
+#: includes/classes/rp-wcec-trigger.class.php:719
+msgid "Role Change"
+msgstr ""
+
+#: includes/classes/rp-wcec-trigger.class.php:1603
+msgid ""
+"Trigger saved and status set to <strong>disabled</strong>. Make sure to "
+"manually enable this trigger when ready."
+msgstr ""
+
+#: includes/classes/rp-wcec-trigger.class.php:1668
+msgid "Clear Scheduled Emails"
+msgstr ""
+
+#: includes/lazy/rp-wcec-tinymce-locales.inc.php:15
+msgid "Macros"
+msgstr ""
+
+#: includes/views/block/actions.php:26 includes/views/email/actions.php:26
+#: includes/views/trigger/actions.php:26
+msgid "Move to Trash"
+msgstr ""
+
+#: includes/views/block/actions.php:30 includes/views/email/actions.php:30
+#: includes/views/trigger/actions.php:30
+#: rightpress/rightpress-updates.class.php:491
+msgid "Submit"
+msgstr ""
+
+#: includes/views/block/settings.php:28
+msgid "Private Title"
+msgstr ""
+
+#: includes/views/email/settings.php:37
+msgid "Heading"
+msgstr ""
+
+#: includes/views/shared/conditions_templates.php:19
+msgid "No conditions configured."
+msgstr ""
+
+#: includes/views/shared/conditions_templates.php:56
+msgid "meta field key"
+msgstr ""
+
+#: includes/views/shared/preloader.php:22
+msgid "<strong>User Interface Loading</strong>"
+msgstr ""
+
+#: includes/views/shared/preloader.php:26
+#, php-format
+msgid ""
+"This plugin uses a JavaScript-driven user interface. If this notice does not "
+"disappear in a few seconds, you should check Console for any JavaScript "
+"errors or get in touch with <a href=\"%s\">RightPress Support</a>."
+msgstr ""
+
+#: includes/views/styling/settings.php:15
+msgid "Email Styling"
+msgstr ""
+
+#: includes/views/styling/settings.php:73
+#: includes/views/styling/settings.php:74
+msgid "Launch Styler"
+msgstr ""
+
+#: includes/views/styling/settings.php:91
+msgid "Styling Settings"
+msgstr ""
+
+#: includes/views/styling/settings.php:96
+msgid "Override default WooCommerce email templates"
+msgstr ""
+
+#: includes/views/styling/settings.php:98
+msgid "No"
+msgstr ""
+
+#: includes/views/styling/settings.php:99
+msgid "Yes"
+msgstr ""
+
+#: includes/views/styling/settings.php:107
+msgid "Save changes"
+msgstr ""
+
+#: includes/views/trigger/settings.php:50
+msgid "Email To Send"
+msgstr ""
+
+#: includes/views/trigger/settings.php:60
+msgid "Schedule"
+msgstr ""
+
+#: includes/views/trigger/settings.php:79
+msgid "Select date"
+msgstr ""
+
+#: includes/views/trigger/settings.php:104
+msgid "Conditions"
+msgstr ""
+
+#: includes/views/trigger/settings.php:104
+msgid "Checked when trigger event fires"
+msgstr ""
+
+#: includes/views/trigger/settings.php:107
+#: includes/views/trigger/settings.php:108
+#: includes/views/trigger/settings.php:121
+#: includes/views/trigger/settings.php:122
+msgid "Add Condition"
+msgstr ""
+
+#: includes/views/trigger/settings.php:118
+msgid "Conditions - Scheduled"
+msgstr ""
+
+#: includes/views/trigger/settings.php:118
+msgid "Checked when scheduled sending starts"
+msgstr ""
+
+#: rightpress/rightpress-conditions-helper.class.php:466
+#, php-format
+msgid "Any %s"
+msgstr ""
+
+#: rightpress/rightpress-helper.class.php:2969
+msgid "Standard Rate"
+msgstr ""
+
+#: rightpress/rightpress-updates.class.php:246
+#: rightpress/rightpress-updates.class.php:254
+msgid "An unexpected error occurred."
+msgstr ""
+
+#: rightpress/rightpress-updates.class.php:464
+msgid "Automatic Update Setup"
+msgstr ""
+
+#: rightpress/rightpress-updates.class.php:468
+#, php-format
+msgid ""
+"There is a new version of <strong>%s</strong> available. To enable automatic "
+"updates, enter your CodeCanyon Purchase Code below."
+msgstr ""
+
+#: rightpress/rightpress-updates.class.php:471
+#, php-format
+msgid ""
+"<strong>%s</strong> supports automatic updates. To receive them, enter your "
+"CodeCanyon Purchase Code below."
+msgstr ""
+
+#: rightpress/rightpress-updates.class.php:485
+#: rightpress/rightpress-updates.class.php:762
+msgid "Purchase Code"
+msgstr ""
+
+#: rightpress/rightpress-updates.class.php:497
+msgid "Where do I find my Purchase Code?"
+msgstr ""
+
+#: rightpress/rightpress-updates.class.php:497
+msgid "Hide This Notice"
+msgstr ""
+
+#: rightpress/rightpress-updates.class.php:567
+msgid "Purchase Code format is invalid."
+msgstr ""
+
+#: rightpress/rightpress-updates.class.php:575
+#: rightpress/rightpress-updates.class.php:823
+msgid "Unable to verify Purchase Code right now. Please try again later."
+msgstr ""
+
+#: rightpress/rightpress-updates.class.php:579
+#: rightpress/rightpress-updates.class.php:811
+msgid "Purchase Code is not valid."
+msgstr ""
+
+#: rightpress/rightpress-updates.class.php:583
+#: rightpress/rightpress-updates.class.php:817
+msgid "Purchase Code belongs to another product."
+msgstr ""
+
+#: rightpress/rightpress-updates.class.php:776
+msgid "View and change your Envato Purchase Code."
+msgstr ""
+
+#: rightpress/rightpress-updates.class.php:803
+msgid "Purchase Code has been successfully updated."
+msgstr ""
+
+#: rightpress/rightpress-updates.class.php:807
+msgid "Purchase Code has been successfully reset."
+msgstr ""
+
+#: rightpress/rightpress-updates.class.php:811
+msgid "Please fix it and try again."
+msgstr ""
+
+#: rightpress/rightpress-updates.class.php:817
+msgid "Please change it and try again."
+msgstr ""
+
+#: templates/emails/admin-cancelled-order.php:22
+#, php-format
+msgid "The order #%d from %s has been cancelled. The order was as follows:"
+msgstr ""
+
+#: templates/emails/admin-failed-order.php:21
+#, php-format
+msgid "Payment for order #%d from %s has failed. The order was as follows:"
+msgstr ""
+
+#: templates/emails/admin-new-order.php:22
+#, php-format
+msgid "You have received an order from %s. The order is as follows:"
+msgstr ""
+
+#: templates/emails/customer-completed-order.php:22
+#, php-format
+msgid ""
+"Hi there. Your recent order on %s has been completed. Your order details are "
+"shown below for your reference:"
+msgstr ""
+
+#: templates/emails/customer-invoice.php:23
+#, php-format
+msgid ""
+"An order has been created for you on %s. To pay for this order please use "
+"the following link: %s"
+msgstr ""
+
+#: templates/emails/customer-invoice.php:23
+msgid "pay"
+msgstr ""
+
+#: templates/emails/customer-new-account.php:22
+#, php-format
+msgid ""
+"Thanks for creating an account on %s. Your username is <strong>%s</strong>."
+msgstr ""
+
+#: templates/emails/customer-new-account.php:25
+#, php-format
+msgid "Your password has been automatically generated: <strong>%s</strong>"
+msgstr ""
+
+#: templates/emails/customer-new-account.php:28
+#, php-format
+msgid ""
+"You can access your account area to view your orders and change your "
+"password here: %s."
+msgstr ""
+
+#: templates/emails/customer-note.php:22
+msgid "Hello, a note has just been added to your order:"
+msgstr ""
+
+#: templates/emails/customer-note.php:26
+msgid "For your reference, your order details are shown below."
+msgstr ""
+
+#: templates/emails/customer-on-hold-order.php:21
+msgid ""
+"Your order is on-hold until we confirm payment has been received. Your order "
+"details are shown below for your reference:"
+msgstr ""
+
+#: templates/emails/customer-processing-order.php:22
+msgid ""
+"Your order has been received and is now being processed. Your order details "
+"are shown below for your reference:"
+msgstr ""
+
+#: templates/emails/customer-refunded-order.php:23
+#, php-format
+msgid "Hi there. Your order on %s has been partially refunded."
+msgstr ""
+
+#: templates/emails/customer-refunded-order.php:26
+#, php-format
+msgid "Hi there. Your order on %s has been refunded."
+msgstr ""
+
+#: templates/emails/customer-reset-password.php:22
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: templates/emails/customer-reset-password.php:23
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: templates/emails/customer-reset-password.php:24
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: templates/emails/customer-reset-password.php:25
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: templates/emails/customer-reset-password.php:29
+msgid "Click here to reset your password"
+msgstr ""
+
+#: templates/emails/email-addresses.php:23
+#: templates/emails/plain/rp-wcec-addresses.php:12
+#: templates/emails/rp-wcec-addresses.php:17
+msgid "Billing address"
+msgstr ""
+
+#: templates/emails/email-addresses.php:29
+#: templates/emails/plain/rp-wcec-addresses.php:16
+#: templates/emails/rp-wcec-addresses.php:23
+msgid "Shipping address"
+msgstr ""
+
+#: templates/emails/email-order-details.php:22
+#: templates/emails/email-order-details.php:24
+#: templates/emails/rp-wcec-order-items-table.php:16
+#, php-format
+msgid "Order #%s"
+msgstr ""
+
+#: templates/emails/email-order-details.php:31
+#: templates/emails/rp-wcec-order-items-table.php:22
+msgid "Quantity"
+msgstr ""
+
+#: templates/emails/email-order-details.php:32
+#: templates/emails/rp-wcec-order-items-table.php:23
+msgid "Price"
+msgstr ""
+
+#: templates/emails/email-order-items.php:33
+msgid "Product Image"
+msgstr ""
+
+#: templates/emails/plain/rp-wcec-order-items-table.php:14
+#, php-format
+msgid "Order number: %s"
+msgstr ""
+
+#: templates/emails/plain/rp-wcec-order-items-table.php:16
+msgid "jS F Y"
+msgstr ""
+
+#: templates/emails/plain/rp-wcec-order-items-table.php:46
+#, php-format
+msgid "Quantity: %s"
+msgstr ""
+
+#: templates/emails/plain/rp-wcec-order-items-table.php:49
+#, php-format
+msgid "Cost: %s"
+msgstr ""
+
+#: templates/emails/plain/rp-wcec-order-items-table.php:61
+#: templates/emails/rp-wcec-order-items-table.php:65
+#, php-format
+msgid "Download %d"
+msgstr ""
+
+#: templates/emails/plain/rp-wcec-order-items-table.php:64
+#: templates/emails/rp-wcec-order-items-table.php:68
+msgid "Download"
+msgstr ""
+
+#: woocommerce-email-center.php:190
+#, php-format
+msgid ""
+"<strong>WooCommerce Email Center</strong> requires PHP %s or later. Please "
+"update PHP on your server to use this plugin."
+msgstr ""
+
+#: woocommerce-email-center.php:190 woocommerce-email-center.php:201
+#: woocommerce-email-center.php:212 woocommerce-email-center.php:223
+#, php-format
+msgid "If you have any questions, please contact %s."
+msgstr ""
+
+#: woocommerce-email-center.php:190 woocommerce-email-center.php:201
+#: woocommerce-email-center.php:212 woocommerce-email-center.php:223
+msgid "RightPress Support"
+msgstr ""
+
+#: woocommerce-email-center.php:201
+#, php-format
+msgid ""
+"<strong>WooCommerce Email Center</strong> requires WordPress version %s or "
+"later. Please update WordPress to use this plugin."
+msgstr ""
+
+#: woocommerce-email-center.php:212
+#, php-format
+msgid ""
+"<strong>WooCommerce Email Center</strong> requires WooCommerce to be active. "
+"You can download WooCommerce %s."
+msgstr ""
+
+#: woocommerce-email-center.php:212
+msgid "here"
+msgstr ""
+
+#: woocommerce-email-center.php:223
+#, php-format
+msgid ""
+"<strong>WooCommerce Email Center</strong> requires WooCommerce version %s or "
+"later. Please update WooCommerce to use this plugin."
+msgstr ""
+
+#: woocommerce-email-center.php:235
+msgid "Support"
+msgstr ""
+
+#: woocommerce-email-center.php:471
+msgid "Type email"
+msgstr ""
+
+#: woocommerce-email-center.php:472
+msgid "Continue typing..."
+msgstr ""
+
+#: woocommerce-email-center.php:578
+msgid "trashed"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Custom Emails"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.rightpress.net/woocommerce-email-center"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Send highly targeted WooCommerce emails. Formerly \"WooCommerce Email Center"
+"\"."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "RightPress"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.rightpress.net"
+msgstr ""

@@ -1,0 +1,12 @@
+/**
+ * WooCommerce Email Center Plugin Backend Styles (loaded on all pages)
+ */
+
+#adminmenu #menu-posts-wcec_email .menu-icon-post div.wp-menu-image:before,
+#adminmenu #menu-posts-wcec_email .menu-icon-wcec_email div.wp-menu-image:before {
+    font-family: FontAwesome !important;
+    font-size: 1.2em !important;
+    content: "\f003";
+    position: relative;
+    top: 1px;
+}

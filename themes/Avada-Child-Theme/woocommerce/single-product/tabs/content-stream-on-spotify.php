@@ -1,0 +1,27 @@
+<?php
+/**
+ * Stream on Spotify tab
+ *
+ * @author 		WooThemes
+ * @package 	WooCommerce/Templates
+ * @version	 2.0.0
+ */
+
+if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
+
+global $woocommerce, $post;
+
+$heading = esc_html( apply_filters( 'woocommerce_product_description_heading', esc_html__( 'Description', 'woocommerce' ) ) );
+?>
+
+<div class="post-content">
+	<?php if(get_field('album_link'))
+		{
+		echo '' . get_field('album_link') . '</p>';
+		}
+		else
+		{
+			echo '<p><strong>This recording is not yet available on Spotify.</strong>';
+		}
+	?>
+</div>

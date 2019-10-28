@@ -1,0 +1,288 @@
+# Copyright (C) 2016 Contact Form 7 Storage
+# This file is distributed under the same license as the Contact Form 7 Storage package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Contact Form 7 Storage 1.5.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/git\n"
+"POT-Creation-Date: 2016-08-26 20:04+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-12-21 19:13+0100\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.11\n"
+"Last-Translator: Albert Parera\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: ca\n"
+
+#: cf7-storage.php:97 cf7-storage.php:344
+msgid "Entries"
+msgstr "Entrades"
+
+#: cf7-storage.php:343 cf7-storage.php:629
+msgid "Contact Form Entries"
+msgstr "Entrades de formularis enviats"
+
+#: cf7-storage.php:475
+msgid "You are not allowed to move this item to Trash."
+msgstr "No teniu autorització per moure aquest element a la paperera."
+
+#: cf7-storage.php:478
+msgid "Error moving an item to Trash."
+msgstr "Error en moure un element a la paperera."
+
+#: cf7-storage.php:494
+msgid "You are not allowed to restore this item from Trash."
+msgstr ""
+"No teniu autorització per restaurar aquest element des de la paperera."
+
+#: cf7-storage.php:497
+msgid "Error in restoring an item from Trash."
+msgstr "Error en restaurar un element des de la paperera."
+
+#: cf7-storage.php:514
+msgid "You are not allowed to delete this entry."
+msgstr "No teniu autorització per eliminar aquesta entrada."
+
+#: cf7-storage.php:517
+msgid "Error in deleting an entry."
+msgstr "Error en eliminar una entrada."
+
+#: cf7-storage.php:596
+msgid "Missing entry ID."
+msgstr "Falta l'ID de l'entrada."
+
+#: cf7-storage.php:636
+msgid "Search results for \"%s\""
+msgstr "Resultats de la cerca per \"%s\""
+
+#: cf7-storage.php:649
+msgid "Subscribe to plugin updates"
+msgstr "Subscriu-te a les actualitzacions de l'extensió"
+
+#: cf7-storage.php:652
+msgid "Subscribe"
+msgstr "Subscriu-te"
+
+#: cf7-storage.php:664
+msgid "Search Entries"
+msgstr "Cercar entrades"
+
+#: cf7-storage.php:683
+msgid "This contact form submission doesn't exist!"
+msgstr "Aquest formulari de contacte enviat no existeix."
+
+#: cf7-storage.php:716 cf7-storage.php:965
+msgctxt "No attachments found"
+msgid "None"
+msgstr "Cap"
+
+#: cf7-storage.php:724 inc/admin-list-view.php:65
+msgid "Contact Form"
+msgstr "Formulari"
+
+#: cf7-storage.php:732 cf7-storage.php:922
+msgid "From"
+msgstr "De"
+
+#: cf7-storage.php:736 cf7-storage.php:923
+msgid "To"
+msgstr "Per"
+
+#: cf7-storage.php:740 cf7-storage.php:921 inc/admin-list-view.php:66
+msgid "Date"
+msgstr "Data"
+
+#: cf7-storage.php:748 cf7-storage.php:924
+msgid "Subject"
+msgstr "Assumpte"
+
+#: cf7-storage.php:752
+msgid "Message"
+msgstr "Missatge"
+
+#: cf7-storage.php:759 cf7-storage.php:926
+msgid "Attachments"
+msgstr "Adjunts"
+
+#: cf7-storage.php:811
+msgid "No field values were captured."
+msgstr "No s'han recollit valors per a aquest camp."
+
+#: cf7-storage.php:820
+msgid "Post"
+msgstr "Entrada"
+
+#: cf7-storage.php:827 cf7-storage.php:841 cf7-storage.php:930
+msgid "Referer"
+msgstr "Referent"
+
+#: cf7-storage.php:846
+msgid "Visit"
+msgstr "Visita"
+
+#: cf7-storage.php:853
+msgid "User agent"
+msgstr "User agent"
+
+#: cf7-storage.php:860 cf7-storage.php:932
+msgid "IP Address"
+msgstr "Adreça IP"
+
+#: cf7-storage.php:900
+msgid "Form Submission"
+msgstr "Formulari d'enviament"
+
+#: cf7-storage.php:902
+msgid "Field Values"
+msgstr "Valors dels camps"
+
+#: cf7-storage.php:904
+msgid "Submission Details"
+msgstr "Detalls de l'enviament"
+
+#: cf7-storage.php:925
+msgid "Body"
+msgstr "Cos"
+
+#: cf7-storage.php:927
+msgid "Form Name"
+msgstr "Nom del formulari"
+
+#: cf7-storage.php:928
+msgid "Entry ID"
+msgstr "ID de l'entrada"
+
+#: cf7-storage.php:929
+msgid "Entry URL"
+msgstr "URL de l'entrada"
+
+#: cf7-storage.php:931
+msgid "User-agent"
+msgstr "User-agent"
+
+#: cf7-storage.php:1091
+msgid ""
+"Storage for Contact Form 7 requires the latest version of Contact Form 7 "
+"plugin."
+msgstr ""
+"Storage for Contact Form 7 requereix l'última versió de l'extensió "
+"Contact Form 7."
+
+#: cf7-storage.php:1102
+msgid "Form Entries"
+msgstr "Entrades del formulari"
+
+#: inc/admin-list-view.php:64
+msgid "Entry"
+msgstr "Entrada"
+
+#: inc/admin-list-view.php:73
+msgid ""
+"All form submissions will appear here. Try submitting one of the forms on "
+"the site."
+msgstr ""
+"Tots els formularis enviats apareixeran aquí. Proveu enviant un dels "
+"formularis del vostre lloc web."
+
+#: inc/admin-list-view.php:94
+msgid "All"
+msgstr "Tots"
+
+#: inc/admin-list-view.php:125 inc/admin-list-view.php:176
+msgid "Restore"
+msgstr "Restaura"
+
+#: inc/admin-list-view.php:128 inc/admin-list-view.php:188
+msgid "Delete Permanently"
+msgstr "Esborra permanentment"
+
+#: inc/admin-list-view.php:130
+msgid "Move to Trash"
+msgstr "Mou a la paperera"
+
+#: inc/admin-list-view.php:168
+msgid "Preview"
+msgstr "Previsualitza"
+
+#: inc/admin-list-view.php:182 inc/admin-list-view.php:202
+#: inc/admin-list-view.php:382
+msgid "Export as CSV"
+msgstr "Exporta-ho en format CSV"
+
+#: inc/admin-list-view.php:196
+msgid "View"
+msgstr "Visualitza"
+
+#: inc/admin-list-view.php:208
+msgid "Trash"
+msgstr "Paperera"
+
+#: inc/admin-list-view.php:234
+msgid "View this submission from %s"
+msgstr "Veure aquest enviament des de %s"
+
+#: inc/admin-list-view.php:252
+msgid "%s ago"
+msgstr "fa %s"
+
+#: inc/admin-list-view.php:302
+msgid "All Contact Forms"
+msgstr "Tots els formularis"
+
+#: inc/admin-list-view.php:322
+msgid "Filter"
+msgstr "Filtra"
+
+#: inc/admin-list-view.php:334
+msgid "Empty Trash"
+msgstr "Buida la paperera"
+
+#: inc/admin-list-view.php:349
+msgid "Comma delimited"
+msgstr "Delimitat per comes"
+
+#: inc/admin-list-view.php:350
+msgid "Semicolon delimited"
+msgstr "Delimitats per punt i coma"
+
+#: inc/admin-list-view.php:351
+msgid "Tab delimited"
+msgstr "Delimitat per tabulacions"
+
+#: inc/admin-list-view.php:377
+msgid "Choose the CSV delimiter character"
+msgstr "Seleccioneu el delimitador per al CSV"
+
+#: lib/envato-automatic-plugin-update/envato-plugin-update.php:167
+msgid "Failed to retreive plugin details from the Envato API."
+msgstr ""
+"No s'han pogut recuperar dades de l'extensiór des de l'API d'Envato."
+
+#: lib/envato-automatic-plugin-update/envato-plugin-update.php:176
+msgid "New version of <strong>%s</strong> is available."
+msgstr "Nova versió de <strong>%s</strong> disponible."
+
+#. Plugin Name of the plugin/theme
+msgid "Contact Form 7 Storage"
+msgstr "Contact Form 7 Storage"
+
+#. Plugin URI of the plugin/theme
+msgid "http://preseto.com/plugins/contact-form-7-storage"
+msgstr "http://preseto.com/plugins/contact-form-7-storage"
+
+#. Description of the plugin/theme
+msgid ""
+"Store all Contact Form 7 submissions (including attachments) in your "
+"WordPress dashboard."
+msgstr ""
+"Emmagatzema tots els enviaments de formularis des de l'extensió Contact "
+"Form 7 (incloent arxius adjunts) en el vostre tauler de WordPress."
+
+#. Author of the plugin/theme
+msgid "Kaspars Dambis"
+msgstr "Kaspars Dambis"
+
+#. Author URI of the plugin/theme
+msgid "http://kaspars.net"
+msgstr "http://kaspars.net"

@@ -1,0 +1,479 @@
+/**
+ * WooCommerce Email Center Plugin Backend Styles
+ */
+
+#poststuff .rp_wcec_actions_metabox .inside,
+#poststuff #wcec_email_blocks .inside,
+#poststuff #wcec_email_macros .inside {
+    margin: 0;
+    padding: 0;
+}
+.rp_wcec_actions,
+.rp_wcec_blocks,
+.rp_wcec_macros {
+    padding: 8px 12px;
+}
+.rp_wcec_actions select,
+.rp_wcec_blocks select,
+.rp_wcec_macros select {
+    width: 100%;
+}
+.rp_wcec_actions_footer,
+.rp_wcec_blocks_footer,
+.rp_wcec_macros_footer {
+    border-top: 1px solid #eee;
+    overflow: hidden;
+    padding: 8px 12px;
+}
+.rp_wcec_object_delete {
+    line-height: 26px;
+    float: left;
+}
+.rp_wcec_actions_footer button,
+.rp_wcec_blocks_footer button,
+.rp_wcec_macros_footer button {
+    float: right;
+}
+
+#wcec_trigger_settings {
+    border: 1px solid #ddd;
+}
+#wcec_email_settings,
+#wcec_block_settings {
+    border: 0;
+    background: 0;
+    box-shadow: none;
+    margin-bottom: 0;
+}
+div#wcec_email_settings .inside,
+div#wcec_block_settings .inside {
+    padding: 0;
+    margin: 0;
+}
+div#wcec_trigger_settings .hndle,
+div#wcec_email_content .hndle,
+div#wcec_email_settings .hndle,
+div#wcec_block_content .hndle,
+div#wcec_block_settings .hndle,
+div#wcec_trigger_settings .handlediv,
+div#wcec_email_content .handlediv,
+div#wcec_email_settings .handlediv,
+div#wcec_block_settings .handlediv,
+div#wcec_block_content .handlediv {
+    display: none;
+}
+div#wcec_email_recipients .inside,
+div#wcec_email_attachments .inside,
+div#wcec_email_formatting .inside,
+div#wcec_email_private_note .inside,
+div#wcec_trigger_settings .inside {
+    margin: 0;
+    padding: 10px 20px;
+}
+div#wcec_email_content .inside,
+div#wcec_block_content .inside {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+div#wcec_email_content,
+div#wcec_block_content {
+    border: 0;
+    background: 0;
+}
+#wcec_email_settings label,
+#wcec_block_settings label {
+    font-size: 14px;
+    color: #000;
+}
+
+.rp_wcec .rp_wcec_field {
+    float: left;
+    padding: 5px 0 10px 0;
+    font-size: 12px;
+    line-height: 24px;
+    color: #555;
+}
+.rp_wcec .rp_wcec_field input,
+.rp_wcec .rp_wcec_field select {
+    display: block;
+    height: 27px;
+    width: 100%;
+}
+#rp_wcec_email_settings .rp_wcec_field input,
+#rp_wcec_block_settings .rp_wcec_field input {
+    padding: 3px 8px;
+    font-size: 1.7em;
+    line-height: 100%;
+    height: 1.7em;
+    width: 100%;
+    outline: 0;
+    margin: 0 0 3px;
+    background-color: #fff;
+}
+.rp_wcec .rp_wcec_field textarea {
+    width: 100%;
+}
+#rp_wcec_email_private_note .rp_wcec_field {
+    padding-bottom: 2px;
+}
+.rp_wcec .rp_wcec_field_single {
+    width: 24.375%;
+    margin-left: 0.8%;
+}
+.rp_wcec .rp_wcec_field_double {
+    width: 49.55%;
+    margin-left: 0.8%;
+}
+.rp_wcec .rp_wcec_field_triple {
+    width: 74.725%;
+    margin-left: 0.8%;
+}
+.rp_wcec .rp_wcec_field_full {
+    width: 100%;
+}
+.rp_wcec .rp_wcec_field_checkbox {
+    width: 100%;
+}
+.rp_wcec .rp_wcec_field_checkbox input {
+    display: inline-block;
+    margin-top: 1px;
+    width: auto;
+    height: 16px;
+}
+.rp_wcec .rp_wcec_no_left_margin {
+    margin-left: 0;
+}
+.rp_wcec label {
+    font-weight: 700;
+}
+#rp_wcec_schedule_date,
+#rp_wcec_schedule_weekday,
+#rp_wcec_schedule_number {
+    width: 100%;
+}
+
+.rp_wcec .rp_wcec_inner_wrapper {
+    border: 1px solid #cccccc;
+    padding: 15px;
+    background: #f9f9f9;
+}
+.rp_wcec_add_condition {
+    text-align: right;
+    padding-top: 8px;
+}
+.rp_wcec_add_condition i.fa::before {
+    color: #555;
+    font-size: 0.9em;
+}
+.rp_wcec_no_conditions {
+    text-align: center;
+}
+.rp_wcec_condition_sort,
+.rp_wcec_condition_remove {
+    display: table-cell;
+    width: 20px;
+    min-width: 30px;
+    height: 100%;
+    vertical-align: top;
+}
+.rp_wcec_condition_sort {
+    border-right: 0;
+}
+.rp_wcec_condition_remove {
+    border-left: 0;
+}
+.rp_wcec_condition_sort_handle,
+.rp_wcec_condition_remove_handle {
+    width: 20px;
+    height: 30px;
+    text-align: center;
+    vertical-align: middle;
+    margin: 0 auto;
+    cursor: pointer;
+    position: relative;
+    top: 4px;
+}
+.rp_wcec_condition_sort_handle i,
+.rp_wcec_condition_remove_handle i {
+    color: #cccccc;
+    line-height: 30px;
+}
+.rp_wcec_condition_sort_handle:hover i {
+    color: #444;
+}
+.rp_wcec_condition_remove_handle:hover i {
+    color: red;
+}
+.rp_wcec_condition_content {
+    display: table-cell;
+    padding: 0 5px;
+    width: 100%;
+}
+.rp_wcec .rp_wcec_condition_setting {
+    float: left;
+    width: 24.5%;
+    padding: 5px 0;
+    font-size: 12px;
+    line-height: 24px;
+    color: #555;
+}
+.rp_wcec_condition_setting_single input,
+.rp_wcec_condition_setting_single select {
+    height: 27px;
+    width: 100%;
+}
+.rp_wcec .rp_wcec_condition_setting_fields {
+    float: left;
+    width: 75.5%;
+    padding: 5px 0;
+    line-height: 24px;
+}
+.rp_wcec .rp_wcec_condition_setting_fields_single {
+    float: left;
+    width: 32.45%;
+    margin-left: 0.85%;
+}
+.rp_wcec .rp_wcec_condition_setting_fields_double {
+    float: left;
+    width: 65.75%;
+    margin-left: 0.85%;
+}
+.rp_wcec .rp_wcec_condition_setting_fields_triple {
+    float: left;
+    width: 99.05%;
+    margin-left: 0.85%;
+}
+.rp_wcec .rp_wcec_condition_setting_fields_single input,
+.rp_wcec .rp_wcec_condition_setting_fields_double input,
+.rp_wcec .rp_wcec_condition_setting_fields_triple input,
+.rp_wcec .rp_wcec_condition_setting_fields_single select,
+.rp_wcec .rp_wcec_condition_setting_fields_double select,
+.rp_wcec .rp_wcec_condition_setting_fields_triple select {
+    height: 27px;
+    width: 100%;
+}
+.rp_wcec .select2-selection--multiple .select2-selection__rendered .select2-search__field {
+    margin-top: 3px;
+    padding: 3px 5px 3px 0px;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+}
+.rp_wcec li.select2-search {
+    margin-bottom: 0px;
+}
+
+#rp_wcec_custom_settings_page {
+    padding: 15px 0;
+}
+#rp_wcec_custom_settings_page .inside {
+    padding: 0;
+    margin: 0;
+}
+#rp_wcec_launch_styler_button {
+    padding: 15px;
+    text-align: center;
+}
+#rp_wcec_launch_styler_button button {
+    width: 100%;
+    height: 50px;
+    font-size: 1.5em;
+}
+.rp_wcec_settings_rows {
+    padding: 15px;
+}
+.rp_wcec_settings_heading {
+    border-bottom: 1px solid #dfdfdf;
+    padding: 15px;
+    margin: 0;
+}
+.rp_wcec_settings_submit {
+    border-top: 1px solid #dfdfdf;
+    padding: 15px;
+}
+form #poststuff #post-body-content {
+    display: none;
+}
+
+.wp-list-table .column-email_subject {
+    width: 50%;
+}
+.wp-list-table .column-email_send_to {
+    width: 30%;
+}
+.wp-list-table .column-trigger_title {
+    width: 35%;
+}
+.wp-list-table .column-trigger_event {
+    width: 25%;
+}
+.wp-list-table .column-trigger_email {
+    width: 25%;
+}
+.wp-list-table .column-block_title {
+    width: 80%;
+}
+.wp-list-table .column-log_time {
+    width: 11%;
+}
+.wp-list-table .column-log_action {
+    width: 122px;
+}
+.wp-list-table .column-log_status {
+    width: 78px;
+}
+.wp-list-table .column-log_customer {
+    width: 18%;
+}
+.wp-list-table .column-log_email {
+    width: 10%;
+}
+.wp-list-table .column-log_trigger {
+    width: 10%;
+}
+.wp-list-table .column-log_order {
+    width: 50px;
+}
+.rp_wcec_title_note {
+    color: #999;
+}
+.rp_wcec_row_title_cell {
+    font-size: 14px!important;
+    font-weight: 600;
+}
+.rp_wcec_none {
+    font-style: italic;
+    font-weight: normal;
+    color: #ccc;
+}
+.post-type-wcec_log_entry .subsubsub,
+.post-type-wcec_log_entry .view-switch,
+.post-type-wcec_log_entry .add-new-h2 {
+    display: none;
+}
+
+.rp_wcec_status_enabled,
+.rp_wcec_status_disabled,
+.rp_wcec_status_processing,
+.rp_wcec_status_aborted,
+.rp_wcec_status_sending,
+.rp_wcec_status_success,
+.rp_wcec_status_warning,
+.rp_wcec_status_error {
+    color: #ffffff;
+    padding: 2px 5px 2px 5px;
+    border-radius: 3px 3px 3px 3px;
+    -moz-border-radius: 3px 3px 3px 3px;
+}
+.rp_wcec_status_enabled:hover,
+.rp_wcec_status_disabled:hover,
+.rp_wcec_status_processing:hover,
+.rp_wcec_status_aborted:hover,
+.rp_wcec_status_sending:hover,
+.rp_wcec_status_success:hover,
+.rp_wcec_status_warning:hover,
+.rp_wcec_status_error:hover {
+    color: #fff;
+}
+.rp_wcec_status_enabled {
+    background-color: #449d44;
+}
+.rp_wcec_status_disabled {
+    background-color: #ccc;
+}
+.rp_wcec_status_processing {
+    background-color: #b8d9ba;
+}
+.rp_wcec_status_aborted {
+    background-color: #ccc;
+}
+.rp_wcec_status_sending {
+    background-color: #b8d9ba;
+}
+.rp_wcec_status_success {
+    background-color: #449d44;
+}
+.rp_wcec_status_warning {
+    background-color: #f1b945;
+}
+.rp_wcec_status_error {
+    background-color: #d9534f;
+}
+
+i.mce-i-rp-wcec-blocks,
+i.mce-i-rp-wcec-macros {
+    position: relative;
+}
+i.mce-i-rp-wcec-blocks:before,
+i.mce-i-rp-wcec-macros:before {
+    font-family: FontAwesome !important;
+    speak: none;
+    -webkit-font-smoothing: antialiased;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    content: "\f003";
+}
+
+.rp_wcec_attachment_list {
+    margin: 4px 0 0 0;
+}
+.rp_wcec_attachment_list li {
+    border: 1px solid #eee;
+    padding: 4px 7px;
+}
+.rp_wcec_attachment_list li:hover {
+    border: 1px solid #ddd;
+}
+.rp_wcec_attachment_remove {
+    float: right;
+    position: relative;
+    top: 2px;
+    cursor: pointer;
+    color: #eee;
+}
+.rp_wcec_attachment_list li:hover .rp_wcec_attachment_remove {
+    color: red;
+}
+
+#poststuff #rp_wcec_preloader {
+    display: table-cell;
+    background-color: #fff;
+    color: #000;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    vertical-align: middle;
+    opacity: 0.8;
+}
+#poststuff #rp_wcec_preloader #rp_wcec_preloader_content {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    height: 30%;
+}
+#poststuff #rp_wcec_preloader .rp_wcec_preloader_text {
+    padding: 0 35%;
+    text-align: center;
+}
+
+#rp_wcec_trigger_settings .rp_wcec_condition .rp_wcec_condition_not_available {
+    position: relative;
+    top: 7px;
+    font-style: italic;
+    min-height: 30px;
+    margin-bottom: 13px;
+    padding: 5px 10px;
+    border: 1px solid #cccccc;
+}
+#rp_wcec_trigger_settings .rp_wcec_condition .rp_wcec_condition_not_available strong {
+    color: red;
+}

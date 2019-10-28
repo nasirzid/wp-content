@@ -1,0 +1,608 @@
+/*
+Theme Name: Avada Child
+Description: Child theme for Avada theme
+Author: ThemeFusion
+Author URI: https://theme-fusion.com
+Template: Avada
+Version: 1.0.0
+Text Domain:  Avada
+*/
+.fusion-header-wrapper {
+	background: url("images/header-bkgrnd.jpg");
+	background: url("images/header-bkgrnd.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.woocommerce-variation-price span.woocommerce-Price-amount.amount.license:after {
+content: " / license";
+}
+
+
+
+@media screen and (max-width: 1024px) {
+	.fusion-header-wrapper {
+		background: url("/wp-content/uploads/2017/06/header-bkgrnd.jpg") !important;
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+}
+
+.form-half-last.optionals {
+	width: 100%;	
+	box-sizing: border-box;
+}
+.form-half-last.optionals p {
+	float: left;
+	width: 50%;
+	padding: 10px;
+	box-sizing: border-box;
+}
+.header_msg img{
+	margin-bottom: 20px;
+}
+#update_user_data_form select {
+	display: block;
+	width: 100%;
+	border: 1px solid #d2d2d2;
+	min-height: 40px;
+	padding-left: 10px;
+	color: #747474;
+	font-size: 13px;
+}
+.header_msg {
+	font-size: 25px;
+	padding-bottom: 20px;	
+}
+.fusion-header, .fusion-secondary-main-menu {
+	background-color: transparent!important;
+}
+
+.fusion-secondary-header{
+	background-color: rgba(26,67,82,0.95)!important;
+}
+.menu-item-234 .fusion-bar-highlight span {
+	color: #fff;
+}
+#menu-item-234 .sub-menu span {
+	color: #000;
+}
+.fusion-main-menu ul li a {
+	color: #fff;
+	font-size: 20px;
+	font-family: "Roboto Condensed", Arial, Helvetica, sans-serif;
+}
+.container.form_reg h2 {
+	color: #333;
+	font-size: 32px !important;
+	margin-bottom: 30px !important;
+	border-bottom: 1px solid #e0dede;
+	padding-bottom: 30px;
+}
+.col-md-6.login_form, .col-md-6.register_form {
+	padding: 30px;
+	border: 1px solid #e0dede;
+}
+@media screen and (min-width: 1025px) {
+	.container.form_reg .col-md-6 {
+		width: 48%;
+	}
+
+	.container.form_reg .col-md-6.register_form {
+		float: right;
+	}
+	.container.form_reg p {
+		margin-bottom: 20px;
+	}
+	.container.form_reg label {
+		margin-bottom: 10px;
+		font-family: Roboto, "Arial Black", Gadget, sans-serif;
+		color: #333;
+		font-size: 16px;
+		font-weight: 400;
+	}
+	.login_form input[type="checkbox"] {
+		margin-left: 35px;
+	}
+}
+.col-md-6.login_form input[type="submit"], 
+.col-md-6.register_form input[type="submit"] {
+	background: #e51053;
+	border: none;
+	color: #fff;
+	padding: 15px;
+		text-transform: uppercase;
+		width: auto;
+}
+.col-md-6.login_form input[type="submit"], 
+.col-md-6.register_form input[type="submit"] {
+	width: auto;
+}
+.col-md-6.login_form a{
+	font-size: 16px;
+	margin-left: 30px;
+}
+.rememebr {
+	font-size: 16px;
+	margin-left: 10px;
+}
+@media screen and (max-width: 1024px) {
+	.container.form_reg .col-md-6 {
+		margin-bottom: 30px;
+	}
+	.col-md-6.login_form input[type="submit"], 
+	.col-md-6.register_form input[type="submit"] {
+		display: block;
+		margin-bottom: 10px;
+	}
+	.col-md-6.login_form  .lost_password {
+		display: block;
+	}  
+	.col-md-6.login_form  .lost_password a {
+		margin-left: 0;
+	}  
+	
+}
+.header_wrapper_for_all {
+	border: 1px solid #e0dede;
+	border-left: 0;
+	border-right: 0;
+	margin-bottom: 40px;
+}
+.header_wrapper_for_all .col-sm-4 {
+	border-right: 1px solid #e0dede;
+	min-height: 110px;
+	padding-top: 35px;
+	font-size :16px;
+}
+.header_wrapper_for_all .col-sm-4:last-child {
+	border: 0;
+}
+.tab-content {
+	padding: 30px;
+	border: 1px solid #ddd;
+	border-top: 0;
+}
+.tabs_with_asn .title-heading-left {
+	font-size: 16px !important;
+	font-weight: 300;
+}
+.tabs_with_asn img {
+	margin-bottom: 30px;
+}
+.header_wrapper_for_all span.names {
+	font-weight: 700;
+	font-family: Roboto, "Arial Black", Gadget, sans-serif;
+	font-size: 18px;
+	margin-bottom: 5px;
+	display: inline-block;
+	text-transform: capitalize;
+}
+.nav.nav-tabs a {
+	font-size: 16px;
+}
+.header_wrapper_for_all .col-sm-3:last-child a {
+	background: url("images/cart.png");
+	background-repeat: no-repeat;
+	padding-left: 25px;
+	background-size: contain;
+	text-transform: uppercase;
+}
+.header_wrapper_for_all .col-sm-3:nth-child(1) span:nth-child(1) {
+	background: url("images/hello_ico.png");
+	background-repeat: no-repeat;
+	padding-left: 25px;
+	background-size: contain;
+}
+.header_wrapper_for_all .col-sm-3 {
+	padding-right: 0;
+}
+.glyphicon.fa.fa-home::before {
+	content: url("images/home.png")!important;
+}
+.tab-content h3 {
+	color: #333;
+	font-size: 35px !important;
+	border-bottom: 1px solid #e0dede;
+	padding-bottom: 20px;
+	font-family: "Libre Baskerville";
+}
+.header_wrapper_for_all .col-sm-3:first-child span:nth-child(4) {
+	padding-right: 10px;
+}
+.tab-content .title-heading-left {
+	border-bottom: 0;
+	margin-top: 20px !important;
+}
+#update_user_data_form label {
+	font-size: 14px;
+	font-family: Roboto, "Arial Black", Gadget, sans-serif;
+	color: #333;
+	margin-top: 20px;
+	font-weight: normal;
+}
+#update_user_data_form input {
+	border: 1px solid #d2d2d2;
+	color: #747474;	
+}
+#update_user_data_form input[type="submit"] {
+	background: #e51053;
+	color: #fff;
+	min-width: 150px;
+	width: auto;
+	padding: 12px;
+	margin-top: 20px;
+	text-transform: uppercase;
+}
+.drop_down .wpcf7-form-control.wpcf7-select {
+	min-height: 70px;
+	margin-bottom: 20px;
+	border: 1px solid #d2d2d2;
+	color: #333;
+	font-size: 30px;
+	font-family: "Libre Baskerville";
+}
+#wpcf7-f149-p150-o1 .drop_down .select-arrow {
+	color: #000;
+	font-size: 20px !important;
+	border-left: 1px solid #d2d2d2;	
+}
+.drop_down {
+	padding-top: 30px !important;
+	border: 1px solid;
+	padding: 20px;
+	margin-bottom: 20px;
+	padding-bottom: 0;
+	background: #f6f6f6;
+}
+.wpcf7-form .drop_down h5 {
+	font-size: 30px !important;
+	font-family: "Libre Baskerville";
+	margin-top: 0;
+	margin-bottom: 30px;
+}
+#update_user_data_form .locations {
+	font-family: Roboto, "Arial Black", Gadget, sans-serif;
+	font-size: 14px;
+	margin-bottom: 10px;
+	margin-top: 20px;
+	color: #333;
+}
+
+.request_form_overlay {
+	background: rgba(0,0,0,0.5);
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	z-index: 100000;
+	left: 0;
+	top: 0;
+	opacity: 0;
+	visibility: hidden;
+	transition: all 0.2s ease;
+}
+.request_form_overlay.show_overlay {
+	opacity: 1;
+	visibility: visible;
+}
+.request_form_wrapper {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	width: 100%;
+	max-width: 700px;
+	background: #fff;
+	/*border-radius: 10px;*/
+	box-shadow: 0 0 18px 3px #333;
+	transform: translate(-50%,-50%);
+	height: 80vh;
+	overflow-y: auto;
+	padding: 40px;
+}
+.request_form_close {
+	width: 30px;
+	height: 30px;
+	background: gray;
+	text-align: center;
+	line-height: 30px;
+	font-size: 15px;
+	border-radius: 50%;
+	border: 1px solid #222;
+	position: absolute;
+	right: 20px;
+	top: 20px;
+	color: #fff;
+	z-index: 1001;
+	opacity: 0.8;
+	transition: all 0.2s ease;
+	cursor: pointer;
+}
+.request_form_close:hover {
+	opacity: 1;
+}
+.request_product_estimate {
+	cursor: pointer;
+	
+}
+.p_form_fields {
+	overflow: hidden;
+}
+.p_form_fields .col {
+	width: 50%;
+	float: left;
+
+}
+.p_form_fields .col label {
+	font-weight: normal;
+	font-size: 14px;
+}
+.p_form_fields .col:nth-child(odd) {
+	padding-right: 10px;
+	box-sizing: border-box;
+}
+.p_form_fields .col:nth-child(even) {
+	padding-left: 10px;
+	box-sizing: border-box;
+}
+.request_form_overlay .wpcf7-textarea {
+    height: 50px !important;
+    transition: all 0.3s ease;
+}
+.request_form_overlay .wpcf7-textarea:focus {
+	height: auto !important;
+}
+
+.request_form_overlay p {
+    line-height: 1.3em;
+    font-size: 14px;
+    font-weight: normal;
+}
+.request_form_overlay p strong {
+	font-family: Roboto, "Arial Black", Gadget, sans-serif;
+	font-size: 16px;
+}
+.product_info .overlay_title {
+    font-family: "Libre Baskerville";
+    font-weight: 400;
+    line-height: 1.4em;
+    letter-spacing: 0px;
+    font-style: normal;
+    font-size: 42px;
+    color: #e51053;
+    margin: 0;
+
+}
+.product_info .overlay_product_title {
+	font-family: "Libre Baskerville";
+    font-weight: 400;
+    line-height: 1.4;
+    letter-spacing: 0px;
+    font-style: normal;
+    margin: 0px;
+    font-size: 28px;
+    line-height: 39px;
+	color: #333333;
+}
+.product_info .overlay_sub_title {
+	color: #333333;
+	font-family: "Libre Baskerville";
+    font-weight: 400;
+    line-height: 1.4;
+    letter-spacing: 0px;
+    font-style: normal;
+    margin: 0px;
+}
+
+
+/* calendar page changes */
+body #tribe-events-content .tribe-events-calendar td {
+	background: #fff;
+}
+body #tribe-events-content .tribe-events-calendar td.tribe-events-othermonth {
+    background-color: #efecec;
+}
+body .tribe-events-calendar div[id*="tribe-events-daynum-"], 
+body .tribe-events-calendar div[id*="tribe-events-daynum-"] a, 
+body .tribe-events-calendar td.tribe-events-past div[id*="tribe-events-daynum-"] {
+	color: #333;
+}
+body div#wrapper .tribe-events-calendar td.tribe-events-present div[id*="tribe-events-daynum-"] {
+	background-color: #e50051;
+}
+.retailers_list {
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+.retailers_list li {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	float: left;
+	margin-right: 15px;
+}
+.retailers_list li a {
+	display: block;
+}
+.retailers_list li a img {
+	height: 32px;
+}
+
+nav.woocommerce-MyAccount-navigation .woocommerce-MyAccount-navigation-link--composer-portal {
+	display: none;
+}
+body {
+	transition: all 0.4s ease;
+}
+.launch_bar_wrapper {
+	display: block;
+	position: fixed;
+	top: -100px;
+	width: 100%;
+	max-width: 100%;
+	min-height: inherit;
+	transition: all 0.3s ease;
+	z-index: 99998;
+}
+
+.launch_bar_wrapper:after,
+.launch_bar_wrapper:before {
+	display: table;
+	content: "";
+}
+.launch_bar_wrapper .launch_bar_overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	background-color: #ddc69b;
+	opacity: 1;
+	width: 100%;
+	max-width: 100%;
+	height: 100%;
+	padding: 0;
+	z-index: 0;
+
+}
+.launch_bar_wrapper .launch_bar_body {
+	background: #ddc69b;
+	min-height: 30px;
+	
+}
+.launch_bar_wrapper .launch_bar_container {
+	width: 1170px;
+	max-width: 100%;
+	position: relative;
+	padding: 12px 20px;
+	display: flex;
+	-webkit-flex-direction: row;
+	flex-direction: row;
+	-webkit-align-items: center;
+	-ms-flex-align: center;
+	text-align: center;
+	margin: 0 auto;
+
+}
+.launch_bar_wrapper .launch_bar_container p {
+	font-size: 16px;
+	color: #000;
+	margin: 0;
+	width: 100%;
+}
+.launch_bar_wrapper .launch_bar_container a {
+	
+}
+.launch_bar_wrapper .launch_bar_container a.provide_feedback_btn {
+	background: #e51053 !important;
+	color: #fff;
+	padding: 3px 15px;
+	border-radius: 5px;
+	display: inline-block;
+	margin-left: 20px;
+}
+body .product-buttons .composer_variable:before {
+	content: "\e971";
+}
+body.page-id-66237 #main { 
+	position: relative;
+	z-index: 100000;
+}
+.countdown_text {
+	font-size: 130px;
+	text-shadow: 0 0 13px #000;
+	transition: all 0.1s ease;
+	color: #fff;
+	text-align: center;
+}
+body.woocommerce-checkout .woocommerce-terms-and-conditions-wrapper {
+	text-align: right;
+}
+body .home_section h2 {
+	font-size: 48px !important;
+}
+.product-list-view .product-title a {
+	color: #000;
+}
+.product-list-view .product_subtitle {
+	color: #e51053;
+	margin: 10px 0 20px;
+	font-family: "Libre Baskerville";
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 1.2em;
+}
+body:not(.logged-in) nav.fusion-secondary-menu .fusion-menu-login-box .fusion-custom-menu-item-contents {
+	display: none !important;
+}
+
+@media screen and (max-width: 1024px) {
+	#news_section .fusion-column-wrapper  {
+		padding: 20px !important;
+	}
+	body .home_section h2 {
+		font-size: 36px !important;
+	}
+	body.home .post-content h2 {
+		font-size: 28px !important;
+	}
+	body.home .home_section h2 {
+		font-size: 36px !important;
+	}
+}
+
+
+
+
+@media screen and (max-width: 600px) {
+	/* ALEX - For mobile phones: */
+.launch_bar_wrapper .launch_bar_container p {
+	font-size: 12px;
+
+}
+
+body.home .home_section h2 {
+
+    font-size: 30px !important;
+
+}
+#welcome-container {
+    font-size: 14px !important;
+    line-height: 185% !important;
+}
+
+
+body.home .post-content h2
+{ font-size: 30px !important;}
+
+
+.button-xlarge {
+    padding: 7px 20px!important;
+    font-size: 14px!important;
+	
+}
+
+.fusion-modal h1, .fusion-widget-area h1, .post-content h1
+{font-size:30px !important;
+}
+
+
+
+
+.product-list-view .product_subtitle {
+
+	font-size: 14px!important;
+	line-height: 185%!important;
+}
+
+.product-title {
+    font-size: 18px !important;
+}
+
+#main .product h2.product_title
+{font-size: 30px !important;}
+
+}
+.fullwidth_select .select2-container,
+.fullwidth_select select {
+	width: 100% !important;
+}

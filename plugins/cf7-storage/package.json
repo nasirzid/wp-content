@@ -1,0 +1,24 @@
+{
+  "name": "cf7-storage",
+  "description": "Storage for Contact Form 7",
+  "author": "Preseto <support@preseto.com> (https://preseto.com)",
+  "homepage": "https://preseto.com/plugins/contact-form-7-storage",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://codecanyon.net/item/storage-for-contact-form-7-/7806229/support"
+  },
+  "private": true,
+  "scripts": {
+    "test": "DIFF_BASE=master ./node_modules/wp-dev-lib/pre-commit",
+    "precommit": "./node_modules/wp-dev-lib/pre-commit"
+  },
+  "keywords": [
+    "wordpress plugin",
+    "wordpress",
+    "contact form 7"
+  ],
+  "devDependencies": {
+    "husky": "^0.14.3",
+    "wp-dev-lib": "github:xwp/wp-dev-lib"
+  }
+}
