@@ -4,7 +4,7 @@
   Plugin URI: https://wordpress.org/plugins/wp-file-manager
   Description: Manage your WP files.
   Author: mndpsingh287
-  Version: 5.1
+  Version: 3.6
   Author URI: https://profiles.wordpress.org/mndpsingh287
   License: GPLv2
  **/
